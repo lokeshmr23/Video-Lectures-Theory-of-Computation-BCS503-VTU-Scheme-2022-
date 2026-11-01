@@ -120,13 +120,13 @@ Found an error or want to suggest a topic or problem? Open an Issue or submit a 
 🔗 Connect
 ▶️ YouTube: [https://www.youtube.com/@Dr.LokeshMR]
 
-💼 LinkedIn: [(https://www.linkedin.com/in/lokesh-m-r-b6880b169/)]
+💼 LinkedIn: [https://www.linkedin.com/in/lokesh-m-r-b6880b169/]
 
-📸 Instagram: [(https://www.instagram.com/lokeshmrmysore/)]
+📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
 
 📢 Telegram: [https://web.telegram.org/a/#-1003930242341]
 
-💬 WhatsApp Channel: [(https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o)]
+💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
 
 ⚠️ Disclaimer
 
