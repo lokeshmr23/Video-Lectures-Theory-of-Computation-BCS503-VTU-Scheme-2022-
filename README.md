@@ -1,0 +1,8 @@
+Module 1: Introduction to Finite Automata
+### Module 1: Introduction to Finite Automata (10 hours | CO1)
+
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M1-L9 | JFLAP Simulation and Epsilon-NFA Conversion Problems | [Watch on YouTube](https://youtu.be/0JUQEnZelD4) |
+
+> More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
