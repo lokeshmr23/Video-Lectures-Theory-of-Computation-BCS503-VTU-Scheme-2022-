@@ -1,4 +1,3 @@
-Module 1: Introduction to Finite Automata
 ### Module 1: Introduction to Finite Automata (10 hours | CO1)
 
 | Lecture | Topic | Video |
