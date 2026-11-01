@@ -57,18 +57,6 @@ Module	Title	Key Topics	COs	Hours
 
 Each module has 10 one-hour sessions (6 lectures + 4 tutorials). Lecture links are added as videos are published.
 
-Module 1: Introduction to Finite Automata (10 hours | CO1)
-Session	Mode	Topic	Video
-S1	Lecture	Introduction to finite automata, structural representations, automata and complexity	🔜 Coming soon
-S2	Lecture	Central concepts: alphabets, strings, languages and problems	🔜 Coming soon
-S3	Lecture	Deterministic finite automata (DFA)	🔜 Coming soon
-S4	Tutorial	DFA design problems	🔜 Coming soon
-S5	Lecture	Nondeterministic finite automata (NFA) and subset construction	🔜 Coming soon
-S6	Tutorial	NFA design and subset construction problems	🔜 Coming soon
-S7	Lecture	Application: text search with finite automata	🔜 Coming soon
-S8	Lecture	Finite automata with epsilon-transitions	🔜 Coming soon
-S9	Tutorial	JFLAP Simulation and Epsilon-NFA Conversion Problems (M1-L9)	▶️ Watch on YouTube
-S10	Tutorial	Module 1 revision, problem solving and short quiz	🔜 Coming soon
 Module 2: Regular Expressions and Properties of Regular Languages (10 hours | CO1, CO2)
 
 🔜 Coming soon
