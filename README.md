@@ -1,9 +1,18 @@
-### 4 Years Previous Year solved question Bank (10 hours | CO1)
+### 4 Years Previous Year solved question Bank (3 hours | CO1|CO2|CO3|CO4|CO5)
 | question Bank | Previous 4 Year | Notes |
 | --- | --- | --- |
 | THEORY OF COMPUTATION Semester V | Course Code: BCS503| [Doi Number](https://doi.org/10.5281/zenodo.24335532) |
 
-### Module 1: Introduction to Finite Automata (10 hours | CO1)
+### Module-Wise Notes (50 hours | CO1 )
+| Lecture Notes | All Module | Notes |
+| --- | --- | --- |
+| M1| Introduction to Finite Automata | [Doi Number](https://doi.org/10.5281/zenodo.24335981) |
+| M2| Regular Expressions and Properties of Regular Languages | [Doi Number]() |
+| M3| Context-Free Grammars and Pushdown Automata | [Doi Number]() |
+| M4| Normal Forms and Properties of Context-Free Languages  | [Doi Number]() |
+| M5| Turing Machines and Undecidability | [Doi Number]() |
+
+### Module 1: Introduction to Finite Automata (10 hours | CO1|CO2|CO3|CO4|CO5)
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
