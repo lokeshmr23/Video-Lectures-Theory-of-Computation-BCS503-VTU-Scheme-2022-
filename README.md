@@ -12,6 +12,15 @@
 | M4| Normal Forms and Properties of Context-Free Languages  | [Doi Number]() |
 | M5| Turing Machines and Undecidability | [Doi Number]() |
 
+### Module-Wise Classroom Presentation slide (50 hours | CO1 )
+| Classroom Presentation | All Module | Slides |
+| --- | --- | --- |
+| M1| Introduction to Finite Automata | [Drive Link](https://doi.org/10.5281/zenodo.24335981) |
+| M2| Regular Expressions and Properties of Regular Languages | [Drive Link](https://doi.org/10.5281/zenodo.24336102) |
+| M3| Context-Free Grammars and Pushdown Automata | [Drive Link](https://doi.org/10.5281/zenodo.24336261) |
+| M4| Normal Forms and Properties of Context-Free Languages  | [Drive Link]() |
+| M5| Turing Machines and Undecidability | [Drive Link]() |
+
 ### Module 1: Introduction to Finite Automata (10 hours | CO1|CO2|CO3|CO4|CO5)
 
 | Lecture | Topic | Video |
