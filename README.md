@@ -13,6 +13,21 @@
 | M1-L9 | JFLAP Simulation and Epsilon-NFA Conversion Problems | [Watch on YouTube](https://youtu.be/0JUQEnZelD4) |
 | M1-L10 |DFA Design Problems and JFLAP Demonstration BCS503 Module 1 VTU 5th Sem | [Watch on YouTube](https://youtu.be/2RlDfu35wgg). |
 
+### Module 2: Regular Expressions and Properties of Regular Languages  (10 hours | CO1)
+
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M2-L1 | Regular expressions | [Watch on YouTube](https://youtu.be/3ix0iHBaZYg) |
+| M2-L2 | Finite automata and regular expressions| [Watch on YouTube]() |
+| M2-L3 |Finite automata and regular expressions continue| [Watch on YouTube](). |
+| M2-L4 |Problems on regular expressions and automata conversions.| [Watch on YouTube](). |
+| M2-L5 |Proving languages not to be regular: the pumping lemma| [Watch on YouTube]() |
+| M2-L6 |Pumping lemma proof practice| [Watch on YouTube](). |
+| M2-L7 |Closure properties of regular languages  | [Watch on YouTube](). |
+| M2-L8 |Equivalence and minimization of automata| [Watch on YouTube]() |
+| M2-L9 | Equivalence and minimization problems | [Watch on YouTube]() |
+| M2-L10 |Module 2 revision | [Watch on YouTube](). |
+
 > More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
                                                        🎓 Theory of Computation (BCS503) – Video Lectures
 
