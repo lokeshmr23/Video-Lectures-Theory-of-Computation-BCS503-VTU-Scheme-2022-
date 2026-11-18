@@ -22,7 +22,7 @@
 | M2-L3 |Finite automata and regular expressions continue| [Watch on YouTube](). |
 | M2-L4 |Problems on regular expressions and automata conversions.| [Watch on YouTube](). |
 | M2-L5 |Proving languages not to be regular: the pumping lemma| [Watch on YouTube]() |
-| M2-L6 |Pumping lemma proof practice| [Watch on YouTube](). |
+| M2-L6 |Pumping lemma proof practice| [Watch on YouTube](https://youtu.be/jrSTuljl0Oo). |
 | M2-L7 |Closure properties of regular languages  | [Watch on YouTube](). |
 | M2-L8 |Equivalence and minimization of automata| [Watch on YouTube]() |
 | M2-L9 | Equivalence and minimization problems | [Watch on YouTube]() |
