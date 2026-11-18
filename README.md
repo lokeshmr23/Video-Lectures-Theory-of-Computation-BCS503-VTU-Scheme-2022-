@@ -55,7 +55,7 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M3-L1 | Context-free grammars | [Watch on YouTube]() |
+| M3-L1 | Context-free grammars | [Watch on YouTube](https://youtu.be/A-PHDtaJ4Ws) |
 | M3-L2 | Parse trees| [Watch on YouTube]() |
 | M3-L3 | CFG design and parse tree problems| [Watch on YouTube](). |
 | M3-L4 | Ambiguity in grammars and languages | [Watch on YouTube](). |
