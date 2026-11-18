@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | M2-L1 | Regular expressions | [Watch on YouTube](https://youtu.be/3ix0iHBaZYg) |
 | M2-L2 | Finite automata and regular expressions| [Watch on YouTube](https://youtu.be/BdpUkXLk5NM) |
-| M2-L3 |Finite automata and regular expressions continue| [Watch on YouTube](). |
+| M2-L3 | Finite automata and regular expressions continue| [Watch on YouTube](https://youtu.be/2bDKXejs_dk). |
 | M2-L4 |Problems on regular expressions and automata conversions.| [Watch on YouTube](). |
 | M2-L5 |Proving languages not to be regular: the pumping lemma| [Watch on YouTube]() |
 | M2-L6 |Pumping lemma proof practice| [Watch on YouTube](). |
