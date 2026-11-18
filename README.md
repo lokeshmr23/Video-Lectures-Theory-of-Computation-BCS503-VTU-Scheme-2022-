@@ -1,3 +1,8 @@
+### 4 Years Previous Year solved question Bank (10 hours | CO1)
+| question Bank | Previous 4 Year | Notes |
+| --- | --- | --- |
+| THEORY OF COMPUTATION Semester V | Course Code: BCS503| [Doi Number](https://doi.org/10.5281/zenodo.24335532) |
+
 ### Module 1: Introduction to Finite Automata (10 hours | CO1)
 
 | Lecture | Topic | Video |
