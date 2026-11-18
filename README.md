@@ -7,7 +7,7 @@
 | Lecture Notes | All Module | Notes |
 | --- | --- | --- |
 | M1| Introduction to Finite Automata | [Doi Number](https://doi.org/10.5281/zenodo.24335981) |
-| M2| Regular Expressions and Properties of Regular Languages | [Doi Number]() |
+| M2| Regular Expressions and Properties of Regular Languages | [Doi Number](https://doi.org/10.5281/zenodo.24336102) |
 | M3| Context-Free Grammars and Pushdown Automata | [Doi Number]() |
 | M4| Normal Forms and Properties of Context-Free Languages  | [Doi Number]() |
 | M5| Turing Machines and Undecidability | [Doi Number]() |
