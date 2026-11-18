@@ -28,6 +28,20 @@
 | M2-L9 | Equivalence and minimization problems | [Watch on YouTube]() |
 | M2-L10 |Module 2 revision | [Watch on YouTube](https://youtu.be/rBLQMwXYHPU). |
 
+### Module 3: Context-Free Grammars and Pushdown Automata   (10 hours | CO1)
+
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M3-L1 | Context-free grammars | [Watch on YouTube]() |
+| M3-L2 | Parse trees| [Watch on YouTube]() |
+| M3-L3 | CFG design and parse tree problems| [Watch on YouTube](). |
+| M3-L4 | Ambiguity in grammars and languages | [Watch on YouTube](). |
+| M3-L5 | Definition of the pushdown automaton| [Watch on YouTube]() |
+| M3-L6 | PDA design problems| [Watch on YouTube](). |
+| M3-L7 | The languages of a PDA | [Watch on YouTube](). |
+| M3-L8 | Deterministic pushdown automata| [Watch on YouTube]() |
+| M2-L9 | CFG and PDA conversion problems | [Watch on YouTube]() |
+| M2-L10 |Module 3 revision; short quiz | [Watch on YouTube](). |
 > More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
                                                        🎓 Theory of Computation (BCS503) – Video Lectures
 
