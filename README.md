@@ -26,7 +26,7 @@
 | M2-L7 |Closure properties of regular languages  | [Watch on YouTube](). |
 | M2-L8 |Equivalence and minimization of automata| [Watch on YouTube]() |
 | M2-L9 | Equivalence and minimization problems | [Watch on YouTube]() |
-| M2-L10 |Module 2 revision | [Watch on YouTube](). |
+| M2-L10 |Module 2 revision | [Watch on YouTube](https://youtu.be/rBLQMwXYHPU). |
 
 > More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
                                                        🎓 Theory of Computation (BCS503) – Video Lectures
