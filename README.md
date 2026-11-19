@@ -59,7 +59,7 @@
 | M3-L1-B | Context-free grammars| [Watch on YouTube](https://youtu.be/HBr8yyZChYI) |
 | M3-L2 | Parse trees| [Watch on YouTube](https://youtu.be/InS-_4jG82U) |
 | M3-L3 | CFG design and parse tree problems| [Watch on YouTube](https://youtu.be/_EFcksYt5VU). |
-| M3-L4 | Ambiguity in grammars and languages | [Watch on YouTube](). |
+| M3-L4 | Ambiguity in grammars and languages | [Watch on YouTube](https://youtu.be/NBmNq7RahHY). |
 | M3-L5 | Definition of the pushdown automaton| [Watch on YouTube]() |
 | M3-L6 | PDA design problems| [Watch on YouTube](). |
 | M3-L7 | The languages of a PDA | [Watch on YouTube](). |
