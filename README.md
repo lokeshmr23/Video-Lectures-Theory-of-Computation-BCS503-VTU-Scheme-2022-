@@ -62,7 +62,7 @@
 | M3-L4 | Ambiguity in grammars and languages | [Watch on YouTube](https://youtu.be/NBmNq7RahHY). |
 | M3-L5 | Definition of the pushdown automaton| [Watch on YouTube](https://youtu.be/P3o3tB5tS0Q) |
 | M3-L6 | PDA design problems| [Watch on YouTube](https://youtu.be/kQpJcrG--8A). |
-| M3-L7 | The languages of a PDA | [Watch on YouTube](). |
+| M3-L7 | The languages of a PDA | [Watch on YouTube](https://youtu.be/y2SbrWMJuGA). |
 | M3-L8 | Deterministic pushdown automata| [Watch on YouTube]() |
 | M2-L9 | CFG and PDA conversion problems | [Watch on YouTube]() |
 | M2-L10 |Module 3 revision; short quiz | [Watch on YouTube](). |
