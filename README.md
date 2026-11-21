@@ -18,7 +18,7 @@
 | M1| Introduction to Finite Automata | [Drive Link](https://drive.google.com/file/d/10oSZxrA0vds3qoR__RJ9QC67E-XSw629/view?usp=drive_link) |
 | M2| Regular Expressions and Properties of Regular Languages | [Drive Link](https://drive.google.com/file/d/1Z9o-REgWQZvo6wcgnWccDTkmaPiyL3Ll/view?usp=drive_link) |
 | M3| Context-Free Grammars and Pushdown Automata | [Drive Link](https://drive.google.com/file/d/1-1JbaTeCjbaSuiiqLuWUI76bRRrSGPVW/view?usp=drive_link) |
-| M4| Normal Forms and Properties of Context-Free Languages  | [Drive Link]() |
+| M4| Normal Forms and Properties of Context-Free Languages  | [Drive Link](https://drive.google.com/file/d/1k5p7YqWj24IWRWbBxM24Fpr06YLBf_8C/view?usp=drive_link) |
 | M5| Turing Machines and Undecidability | [Drive Link]() |
 
 ### Module 1: Introduction to Finite Automata (10 hours | CO1|CO2|CO3|CO4|CO5)
