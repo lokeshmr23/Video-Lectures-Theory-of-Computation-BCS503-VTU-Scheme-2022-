@@ -66,6 +66,23 @@
 | M3-L8 | Deterministic pushdown automata| [Watch on YouTube](https://youtu.be/hSP96N58Pao) |
 | M2-L9 | CFG and PDA conversion problems | [Watch on YouTube](https://youtu.be/gMs9lmXNXE4) |
 | M2-L10 |Module 3 revision; short quiz | [Watch on YouTube](https://youtu.be/hvgU9Xd2a8E). |
+
+### Module 4: Normal Forms and Properties of Context-Free Languages    (10 hours | CO1)
+
+| Lecture | Topic | Video |
+| --- | --- | --- |
+| M4-L1| Normal forms for context-free grammars | [Watch on YouTube]() |
+| M4-L2 | Eliminating epsilon-productions and unit productions | [Watch on YouTube]() |
+| M4-L3 | Grammar simplification problems| [Watch on YouTube](). |
+| M4-L4 | Chomsky normal form  | [Watch on YouTube](). |
+| M4-L5 | Chomsky normal form conversion problems| [Watch on YouTube]() |
+| M4-L6 | The pumping lemma for context-free languages | [Watch on YouTube](). |
+| M4-L7 | Applying the CFL pumping lemma | [Watch on YouTube](). |
+| M4-L8 | Closure properties of context-free languages| [Watch on YouTube]() |
+| M4-L9 | Using closure properties to analyze languages | [Watch on YouTube]() |
+| M4-L10 |Module 4 revision; short quiz | [Watch on YouTube](). |
+
+
 > More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
                                                        🎓 Theory of Computation (BCS503) – Video Lectures
 
