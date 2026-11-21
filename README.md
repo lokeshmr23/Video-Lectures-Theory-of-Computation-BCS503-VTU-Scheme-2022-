@@ -65,7 +65,7 @@
 | M3-L7 | The languages of a PDA | [Watch on YouTube](https://youtu.be/y2SbrWMJuGA). |
 | M3-L8 | Deterministic pushdown automata| [Watch on YouTube](https://youtu.be/hSP96N58Pao) |
 | M2-L9 | CFG and PDA conversion problems | [Watch on YouTube](https://youtu.be/gMs9lmXNXE4) |
-| M2-L10 |Module 3 revision; short quiz | [Watch on YouTube](). |
+| M2-L10 |Module 3 revision; short quiz | [Watch on YouTube](https://youtu.be/hvgU9Xd2a8E). |
 > More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated!
                                                        🎓 Theory of Computation (BCS503) – Video Lectures
 
