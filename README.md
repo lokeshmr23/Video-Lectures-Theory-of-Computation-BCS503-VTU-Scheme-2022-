@@ -73,7 +73,7 @@
 | --- | --- | --- |
 | M4-L1| Normal forms for context-free grammars | [Watch on YouTube](https://youtu.be/QtnUJRYIGQQ) |
 | M4-L2 | Eliminating epsilon-productions and unit productions | [Watch on YouTube](https://youtu.be/0MXAjqHtJls) |
-| M4-L3 | Grammar simplification problems| [Watch on YouTube](). |
+| M4-L3 | Grammar simplification problems| [Watch on YouTube](https://youtu.be/F39XvkVAfUM). |
 | M4-L4 | Chomsky normal form  | [Watch on YouTube](). |
 | M4-L5 | Chomsky normal form conversion problems| [Watch on YouTube]() |
 | M4-L6 | The pumping lemma for context-free languages | [Watch on YouTube](). |
