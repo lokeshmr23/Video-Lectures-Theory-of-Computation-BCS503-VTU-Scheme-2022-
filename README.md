@@ -76,7 +76,7 @@
 | M4-L3 | Grammar simplification problems| [Watch on YouTube](https://youtu.be/F39XvkVAfUM). |
 | M4-L4 | Chomsky normal form  | [Watch on YouTube](https://youtu.be/fkoeKWKceAM). |
 | M4-L5 | Chomsky normal form conversion problems| [Watch on YouTube](https://youtu.be/5KWZRTNh_N0) |
-| M4-L6 | The pumping lemma for context-free languages | [Watch on YouTube](). |
+| M4-L6 | The pumping lemma for context-free languages | [Watch on YouTube](https://youtu.be/PDAY32RaYi8). |
 | M4-L7 | Applying the CFL pumping lemma | [Watch on YouTube](). |
 | M4-L8 | Closure properties of context-free languages| [Watch on YouTube]() |
 | M4-L9 | Using closure properties to analyze languages | [Watch on YouTube]() |
